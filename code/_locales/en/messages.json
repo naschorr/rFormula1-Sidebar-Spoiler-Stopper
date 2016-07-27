@@ -1,0 +1,21 @@
+{
+	"name": {
+		"message": "/r/Formula1 Sidebar Spoiler Stopper",
+		"description": "Extension name"
+	},
+
+	"description": {
+		"message": "Allows you to hide the Race Winner, and Driver of the Day images from the sidebar of the Formula 1 subreddit.",
+		"description": "Extension description"
+	},
+
+	"popup_enable_blocking_string": {
+		"message": "Enable Blocking",
+		"description": "'Enable' text for the Enable/Disable toggle button on the popup page."
+	},
+
+	"popup_disable_blocking_string": {
+		"message": "Disable Blocking",
+		"description": "'Disable' text for the Enable/Disable toggle button on the popup page."
+	}
+}
