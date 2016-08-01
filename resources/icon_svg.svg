@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="icon_svg.svg"
-   inkscape:export-filename="D:\Dropbox\Files\Code\Chrome Extensions\rFormula1 Sidebar Spolier Stopper\code\images\icon_38.png"
-   inkscape:export-xdpi="6.970108"
-   inkscape:export-ydpi="6.970108">
+   inkscape:export-filename="D:\Dropbox\Files\Code\Chrome Extensions\rFormula1 Sidebar Spoiler Stopper\code\images\icon_128.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="298.23183"
-     inkscape:cy="232.52929"
+     inkscape:zoom="1.4"
+     inkscape:cx="442.79177"
+     inkscape:cy="216.90575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,13 +57,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-540.36219)">
-    <path
-       style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 50.002262,835.49463 a 210.26973,210.26973 0 0 0 24.160108,64.00778 l 79.51954,10e-6 0,-103.67969 -103.679639,-10e-6 -9e-6,39.67191 z m 103.679648,-39.6719 103.67968,0 0,-103.67968 -103.67969,0 10e-6,103.67968 z m -10e-6,-103.67968 -1e-5,-81.04686 a 210.26973,210.26973 0 0 0 -81.236319,81.04686 l 81.236329,0 z m 103.67969,0 103.67968,0 -2e-5,-79.60352 A 210.26973,210.26973 0 0 0 298.00417,588.4634 l -40.64259,0 10e-6,103.67965 z m 103.67968,0 0,103.67968 103.67979,2e-5 0,-24.87695 a 210.26973,210.26973 0 0 0 -25.295,-78.80276 l -78.38479,10e-6 z m 0,103.67968 -103.67968,0 -2e-5,103.67969 103.6797,10e-6 0,-103.6797 z m 0,103.6797 3e-5,76.85742 a 210.26973,210.26973 0 0 0 76.9414,-76.8574 l -76.94141,0 z m -103.6797,-10e-6 -103.67966,0 -10e-6,78.57422 a 210.26973,210.26973 0 0 0 77.85549,25.10546 l 25.8242,0 -2e-5,-103.67968 z"
-       id="rect4706"
-       inkscape:connector-curvature="0"
-       inkscape:export-xdpi="8.2465534"
-       inkscape:export-ydpi="8.2465534" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4812"
@@ -74,7 +67,7 @@
            height="583.86816"
            x="-537.40112"
            y="570.58887" /></flowRegion><flowPara
-         id="flowPara4818"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4818" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4820"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -84,7 +77,7 @@
            height="391.93918"
            x="-505.07626"
            y="594.83252" /></flowRegion><flowPara
-         id="flowPara4826"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4826" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4828"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -94,7 +87,7 @@
            height="533.36053"
            x="-668.72101"
            y="619.07617" /></flowRegion><flowPara
-         id="flowPara4834"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4834" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4836"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
@@ -104,19 +97,86 @@
            height="577.80725"
            x="-674.78192"
            y="582.71069" /></flowRegion><flowPara
-         id="flowPara4842"></flowPara></flowRoot>    <circle
-       style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:75;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path4852"
-       cx="256"
-       cy="796.36218"
-       r="207.83336" />
+         id="flowPara4842" /></flowRoot>    <g
+       id="g4271">
+      <path
+         id="rect4160"
+         transform="translate(0,540.36219)"
+         d="M 0 384 L 0 476.56641 L 35.433594 512 L 128 512 L 128 384 L 0 384 z "
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="796.36218"
+         x="128"
+         height="128"
+         width="128"
+         id="rect4160-0"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="924.36218"
+         x="256"
+         height="128"
+         width="128"
+         id="rect4160-8"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="796.36224"
+         x="384"
+         height="128"
+         width="128"
+         id="rect4160-0-7"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="668.36218"
+         x="0"
+         height="128"
+         width="128"
+         id="rect4160-7"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="540.36218"
+         x="128"
+         height="128"
+         width="128"
+         id="rect4160-0-6"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="668.36218"
+         x="255.99998"
+         height="128"
+         width="128"
+         id="rect4160-8-5"
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4160-0-7-3"
+         transform="translate(0,540.36219)"
+         d="M 384 0 L 384 128 L 512 128 L 512 37.21875 L 474.78125 0 L 384 0 z "
+         style="fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <rect
-       style="fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:64;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4854"
-       width="450"
-       height="75"
-       x="519.13245"
-       y="344.59375"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+       style="fill:none;fill-opacity:1;stroke:#0f0f0f;stroke-width:23.608;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4229"
+       width="488.3924"
+       height="488.3924"
+       x="11.803808"
+       y="552.16602" />
+    <g
+       id="g4239"
+       transform="translate(-657.25195,-5.0308764)">
+      <ellipse
+         ry="218.17918"
+         rx="218.17917"
+         cy="801.39307"
+         cx="913.25195"
+         id="path4235"
+         style="fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:64;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         y="-111.09617"
+         x="1011.4167"
+         height="64"
+         width="402.04071"
+         id="rect4237"
+         style="fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:64;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>

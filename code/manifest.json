@@ -4,7 +4,7 @@
   "name": "__MSG_name__",
   "short_name": "__MSG_short_name__",
   "description": "__MSG_description__",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Nick Schorr",
   "default_locale": "en",
 
@@ -15,7 +15,7 @@
   },
 
   "browser_action": {
-    "default_icon": "images/icon_38.png",
+    "default_icon": "images/icon_noblock_38.png",
     "default_title": "/r/Formula1 Sidebar Spoiler Stopper",
     "default_popup": "html/popup.html"
   },
@@ -27,6 +27,11 @@
         "run_at": "document_end"
       }
   ],
+
+  "background": {
+    "scripts": ["js/icon_changer.js"],
+    "persistant": false
+  },
 
   "permissions": [
     "storage"
