@@ -4,6 +4,11 @@
 		"description": "Extension name"
 	},
 
+	"short_name": {
+		"message": "/r/F1 Spoiler Stopper",
+		"description": "Extension's shorter name."
+	},
+
 	"description": {
 		"message": "Allows you to hide the Race Winner, and Driver of the Day images from the sidebar of the Formula 1 subreddit.",
 		"description": "Extension description"
