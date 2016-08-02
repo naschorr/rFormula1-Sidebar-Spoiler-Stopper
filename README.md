@@ -25,7 +25,7 @@ Alternatively, open up your Chrome extension list, and then drag and drop the rF
 A Chrome Web Store upload is coming soon.
 
 ## Usage
-After installation, you'll see two different icons.
+After installation, you'll see one of two different icons.
 
 ![no blocking][browser_action icon no block] This one shows up when the extension isn't blocking anything, and you'll see it most of the time.
 
