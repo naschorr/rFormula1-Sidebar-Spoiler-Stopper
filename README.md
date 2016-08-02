@@ -25,11 +25,17 @@ Alternatively, open up your Chrome extension list, and then drag and drop the rF
 A Chrome Web Store upload is coming soon.
 
 ## Usage
-After installation, you can click on the extension's icon: ![no blocking][browser_action icon no block], or ![blocking][browser_action icon block] to open a panel that will let you toggle blocking on and off.
+After installation, you'll see two different icons.
+
+![no blocking][browser_action icon no block] This one shows up when the extension isn't blocking anything, and you'll see it most of the time.
+
+![blocking][browser_action icon block] This other one shows up when it's currently blocking content on the subreddit.
+
+Clicking on either of these icons has the same effect of opening up a small configuration window that looks like this:
 
 <p align="center"><img src="https://raw.githubusercontent.com/naschorr/rFormula1-Sidebar-Spoiler-Stopper/master/resources/blocking_enabled_popup.png"></p>
 
-The button always tells you what it will do. In this case, clicking on it will disable the spoiler blocking.  You can then refresh the page to see the change.
+On it, the button always tells you what it will do. In this case, clicking on it will disable the spoiler blocking.  You can then refresh the page to see the change.
 
 [browser_action icon no block]: https://raw.githubusercontent.com/naschorr/rFormula1-Sidebar-Spoiler-Stopper/master/resources/icon_noblock_16.png
 [browser_action icon block]: https://raw.githubusercontent.com/naschorr/rFormula1-Sidebar-Spoiler-Stopper/master/resources/icon_block_16.png
