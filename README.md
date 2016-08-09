@@ -18,11 +18,11 @@ Basically, it stops your browser from rendering the images that spoil the result
 This is also a better solution that just turning the subreddit style off, since you can still see the rest of the sidebar's useful information.
 
 ## Installation
-Just download and unzip the repo, navigate to chrome://extensions/, enable developer mode, and load the unpacked extension.
+[Get it on the Chrome Web Store!](https://chrome.google.com/webstore/detail/rformula1-sidebar-spoiler/dmnihagnnmjaaohbhgghpgcelgejpflf)
 
-Alternatively, open up your Chrome extension list, and then drag and drop the rFormula1-Sidebar-Spoiler-Stopper.crx file into the list. After that, it should be ready to go (temporarily).
+Alternatively, just download and unzip the repo, navigate to `chrome://extensions/`, enable developer mode, and load the unpacked extension.
 
-A Chrome Web Store upload is coming soon.
+You can also manually .crx by drag-n-dropping it into `chrome://extensions/`, if you'd like.
 
 ## Usage
 After installation, you'll see one of two different icons.
