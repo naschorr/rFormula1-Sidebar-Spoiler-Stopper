@@ -3,7 +3,7 @@ It's a chrome extension that allows you to hide the Race Winner, and Driver of t
 
 ## What it does
 ![example of usage](https://raw.githubusercontent.com/naschorr/rFormula1-Sidebar-Spoiler-Stopper/master/resources/interface_merged.png)
-> Notice how you can't see the Race Winner, and Driver of the Day pictures (top right) after blocking has been enabled (![blocking][browser_action icon block]).
+> Notice how you can't see the Race Winner, and Driver of the Day pictures (top right) after blocking was enabled (![blocking][browser_action icon block]).
 
 Basically, it stops your browser from rendering the sidebar images that spoil the race results. This means that if you miss a race, then you'll have a chance of avoiding spoilers in the subreddit. Beyond that, it also lets you enable or disable this blocking, so if you've seen the race, then you can turn the blocker off.
 
