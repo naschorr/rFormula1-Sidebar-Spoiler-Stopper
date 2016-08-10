@@ -3,7 +3,7 @@ function injectAntiSpoilerStyle() {
 
 	var node = document.createElement('style');
 	node.innerHTML = spoilerStopper;
-	document.body.appendChild(node);
+	document.head.appendChild(node);
 }
 
 function updateBrowserActionIcon() {
