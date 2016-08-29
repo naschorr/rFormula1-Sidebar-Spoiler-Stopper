@@ -14,7 +14,7 @@ This is a better solution that just turning the subreddit style off, since you c
 
 Alternatively, just download and unzip the repo, navigate to `chrome://extensions/`, enable developer mode, and load the unpacked extension.
 
-You can also manually .crx by drag-n-dropping it into `chrome://extensions/`, if you'd like.
+You can also manually install the .crx by drag-n-dropping it into `chrome://extensions/`, if you'd like.
 
 ## Usage
 After installation, you'll see one of two different icons.
